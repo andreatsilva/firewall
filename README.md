@@ -1,2 +1,2 @@
 # firewall
-A FIrewall made with C and GTK
+A FIrewall made with C
